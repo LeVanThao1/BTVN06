@@ -1,0 +1,8 @@
+bodyParser json 
+query
+cung ten thi cai dau tien no se chay va ket thuc request
+hong ngoai, web chinh,phu
+callback.
+module
+service
+middlewares giua router va function dinh nghia
